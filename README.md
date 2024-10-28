@@ -7,3 +7,9 @@ A Python-based Resume Parser using Flask and Natural Language Processing (NLP). 
 **RESTful API**: Built with Flask to offer a simple and scalable API for parsing resumes.<br>
 **File Upload**: Allows users to upload resumes in PDF or DOCX format.<br>
 **Customizable**: Supports adding custom parsing rules or data fields.<br>
+
+**<h2>Technologies Used</h2>**
+Python<br>
+Flask - For building the web API.<br>
+NLP Libraries: NLTK - For natural language processing. <br>
+pdfminer.six - For handling resume file formats (PDF, DOCX).
