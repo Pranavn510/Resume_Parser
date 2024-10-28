@@ -1,0 +1,11 @@
+Flask
+pdfminer.six
+pdfminer3
+mammoth
+PyPDF2
+python-docx
+pywin32
+nltk
+scikit-learn
+pandas
+textblob
